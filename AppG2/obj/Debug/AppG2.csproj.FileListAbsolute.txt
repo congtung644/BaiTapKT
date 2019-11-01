@@ -1,0 +1,6 @@
+C:\Users\LE NGUYEN\source\repos\AppG2\AppG2\obj\Debug\AppG2.csprojAssemblyReference.cache
+C:\Users\LE NGUYEN\source\repos\AppG2\AppG2\obj\Debug\AppG2.View.frmContact.resources
+C:\Users\LE NGUYEN\source\repos\AppG2\AppG2\obj\Debug\AppG2.Properties.Resources.resources
+C:\Users\LE NGUYEN\source\repos\AppG2\AppG2\obj\Debug\AppG2.csproj.GenerateResource.cache
+C:\Users\LE NGUYEN\source\repos\AppG2\AppG2\obj\Debug\AppG2.csproj.CoreCompileInputs.cache
+C:\Users\LE NGUYEN\source\repos\AppG2\AppG2\obj\Debug\AppG2.View.frmContactInfo.resources
